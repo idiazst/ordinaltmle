@@ -1,0 +1,10 @@
+Package: ordinaltmle
+Type: Package
+Title: Efficiency guarantees for TMLE with ordinal outcomes
+Version: 0.1.0
+Author: Ivan Diaz
+Maintainer: Ivan Diaz <ild2005@med.cornell.edu>
+Description: Efficiency guarantees for TMLE with ordinal outcomes
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
